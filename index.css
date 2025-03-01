@@ -68,6 +68,10 @@ body {
     margin: 25px auto;
 }
 
+#head-btn:hover {
+    background-color: #838383;
+}
+
 #body {
     height: 450px;
     margin: 0;
